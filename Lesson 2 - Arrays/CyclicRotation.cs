@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 
 class Solution {
-    public int[] solution(int[] A, int K) {
-        
+    public int[] solution(int[] A, int K) 
+    {    
         // If we have no elements in our array, return it.
         if(A.Length == 0)
         {
