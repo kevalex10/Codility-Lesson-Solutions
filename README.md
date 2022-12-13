@@ -7,6 +7,6 @@ These are my own solutions, and I have documented my code with comments explaini
  
 ## Lesson 2 - Arrays
 | Problem  |  | |
-| :---         |     :---:      |
+| :---         |     :---:      |     :---:      |
 | CyclicRotation | [Problem Statement](https://github.com/kevalex10/Codility-Lesson-Solutions/blob/main/Lesson%202%20-%20Arrays/CyclicRotation.md) | [Solution](https://github.com/kevalex10/Codility-Lesson-Solutions/blob/main/Lesson%202%20-%20Arrays/CyclicRotation.cs)  |
 | OddOccurrencesInArray |  | [Solution](https://github.com/kevalex10/Codility-Lesson-Solutions/blob/main/Lesson%202%20-%20Arrays/OddOccurrencesInArray.cs)  |
