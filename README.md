@@ -8,7 +8,7 @@ These are my own solutions, and I have documented my code with comments explaini
 ## Lesson 1 - Iterations
 | Problem  |  | |
 | :---         |     :---:      |     :---:      |
-| BinaryGap |  |  |
+| BinaryGap | [Problem Statement](https://github.com/kevalex10/Codility-Lesson-Solutions/blob/main/Lesson%201%20-%20Iterations/BinaryGap.md) | [Solution](https://github.com/kevalex10/Codility-Lesson-Solutions/blob/main/Lesson%201%20-%20Iterations/BinaryGap.cs) |
  
 ## Lesson 2 - Arrays
 | Problem  |  | |
